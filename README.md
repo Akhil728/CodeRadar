@@ -1,4 +1,4 @@
-#CodeRadar
+#ConTrack
 
 Hey there! Welcome to CodeRadar — a tool I built to help competitive programmers stay updated with contests and easily access high-quality solution videos across various coding platforms. No more missing events or hunting for tutorials!
 
